@@ -41,8 +41,6 @@ Two datasets are available on Zenodo to explore MetaBar with real data.
 ### Raw Input Files — run the full pipeline from scratch
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20647909.svg)](https://doi.org/10.5281/zenodo.20647909)
 
-**[MetaBar Demo Dataset — 10.5281/zenodo.20647909](https://doi.org/10.5281/zenodo.20647909)**
-
 | File | Dataset | Size | Contents |
 |---|---|---|---|
 | `demo_clozapine_dose.zip` | Clozapine dose–response (mouse brain) | 7.2 GB | IF TIFF, MALDI TIFF, channel names |
@@ -56,8 +54,6 @@ Two datasets are available on Zenodo to explore MetaBar with real data.
 ### Processed Results — inspect pre-computed outputs immediately
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20648515.svg)](https://doi.org/10.5281/zenodo.20648515)
 
-**[MetaBar Processed Results — 10.5281/zenodo.20648515](https://doi.org/10.5281/zenodo.20648515)**
-
 | File | Dataset | Size | Contents |
 |---|---|---|---|
 | `results_clozapine_dose.zip` | Clozapine dose–response | 3.1 GB | Segmentation, projection, clustering, positivity, GNN, cross-sample comparison |
@@ -67,7 +63,6 @@ Two datasets are available on Zenodo to explore MetaBar with real data.
 **How to use:**
 - **Napari viewer** — extract the zip, open the app, go to *Interactive Viewer (napari)*, set the results folder path, and click Launch napari.
 - **Cross-sample comparison** — go to *Cross-Sample Comparative Analysis*, add each sample subfolder as a separate entry, and run comparison.
-- **GNN Explainability** — go to *GNN Explainability*, set the results folder, and browse pre-computed feature importance plots.
 
 > Each zip contains one representative sample plus the cross-sample comparison outputs for that dataset.
 
