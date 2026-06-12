@@ -115,4 +115,4 @@ If you use MetaBar in your research, please cite:
 
 For questions or bug reports, please open an [issue](https://github.com/coskunlab/MetaBar/issues).
 
-Coskun Lab · School of Biological Sciences · Georgia Institute of Technology
+Coskun Lab · Department of Biomedical Engineering · Georgia Institute of Technology
